@@ -31,7 +31,11 @@ GIF created with ...
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
+<<<<<<< HEAD
 
+=======
+* [x] gif link : https://imgur.com/a/tjYaowB
+>>>>>>> origin/master
 ## Notes
 
 Describe any challenges encountered while building the app.
